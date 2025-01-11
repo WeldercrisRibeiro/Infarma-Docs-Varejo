@@ -4,3 +4,9 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 npm install
 npm start
+
+git add .
+
+git commit -m "ajust files and folders"
+
+git push origin main
