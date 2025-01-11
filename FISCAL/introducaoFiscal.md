@@ -7,18 +7,17 @@
 ## Sumário
 - [Inicio](introduçãoFiscal.md)
 - [Região Tributária](regiãoTributária.md)
-- Classificação Tributária
-- Regime de Tributação
-- Cadastro de Produtos 
-- Classificações Tributárias
-- NCM
-- Regime Tributários
-- Tipos de Operações
-- Plano de Contas Contábil
-- CFOP
-- Numerações Fiscais
-- SPED
-- AC Fortes
-- Geração de XMLs
-- Registro 1601
-- Erros & Soluções
+- [Classificação Tributária](classificacãoTributária.md)
+- [Regime de Tributação](#regimeTributação.md)
+- [Classificações Tributárias (Cadastro de Produtos)](classTriProd.md)
+- [NCM](ncm.md)
+- [Regime Tributários](regimeTributario.md)
+- [Tipos de Operações](tipoOperacao.md)
+- [Plano de Contas Contábil](planoContas.md)
+- [CFOP](cfop.md)
+- [Numerações Fiscais](numeracaoFiscal.md)
+- [SPED](SPED.md)
+- [AC Fortes](Fortes.md)
+- [Geração de XMLs](XML.md)
+- [Registro 1601](1601.md)
+- [Erros & Soluções](FAQ.md)
