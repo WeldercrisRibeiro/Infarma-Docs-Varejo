@@ -47,7 +47,7 @@ Clique no botão de inclusão e selecione a conta "PLANO DE CONTAS" do tipo Anal
 
 Clique para salvar e após a finalização do primeiro Tipo de operação, o mesmo processo deve ser feito para todos os restantes!
 
-> ⚠️ **Observação:** Esse processo pode ser feito tanto no central (para rede de lojas) quando no varejo (para lojas independentes). Irá depender de onde será feito a geração dos arquivos fiscais!
+> ⚠️ **Observação:** Esse processo pode ser feito tanto no central (em caso de rede) quanto no varejo (para loja independentes). Irá depender de onde será feito a geração dos arquivos fiscais!
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
