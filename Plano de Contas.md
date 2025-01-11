@@ -30,7 +30,10 @@ Após preencher os dados da primeira conta, clique para salvar e crie uma nova c
 
 **⚠️ Não esqueça de marcar na conta PLC, o tipo de conta como Sintético e na conta PLANO DE CONTAS o tipo como analítico⚠️**
 
+## Vinculando ao cadastro de lojas!
+Acesse em Estoque > Arquivo > Lojas > EDITA > Outros dados e vincule o Plano de contas padrão ao cadastro da loja, como mostra a imagem abaixo:
 
+![Exemplo Local](./img/cadastro-loja.png)
 
 > ⚠️ **Observação:** Esse processo pode ser feito tanto no central (para rede de lojas) quando no varejo (para lojas independentes). Se o cliente for parte de rede, o processo deve ser feito no central!
 
