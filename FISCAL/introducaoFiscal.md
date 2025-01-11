@@ -6,7 +6,7 @@
 
 ## Sumário
 - [Inicio](#introduçãoFiscal.md)
-- [Região%20Tributária] (#regiãoTributária.md)
+- [Região%20Tributária](#regiãoTributária.md)
 - Classificação Tributária
 - Regime de Tributação
 - Cadastro de Produtos 
