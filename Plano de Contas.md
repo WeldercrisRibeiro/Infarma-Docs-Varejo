@@ -1,19 +1,12 @@
-# Nome do Projeto
+# Plano de Contas Contábil
 
-## Descrição
+## Como criar o plano de contas contábil, vincular aos tipos de operações e ao cadastro de lojas.
 Uma breve descrição sobre o projeto.
 
-## Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+> ⚠️ **Observação:** Esse processo pode ser feito tanto no central (para rede de lojas) quando no varejo (para lojas independentes). Se o cliente for parte de rede, o processo deve ser feito no central!
 
-## Tecnologias Utilizadas
-- Tecnologia 1
-- Tecnologia 2
-- Tecnologia 3
 
-## Como Usar
+## Acesse em: Controle Fiscal > Arquivo > Plano de Contas Contábil > Cabeçalho
 1. Clone o repositório.
 2. Instale as dependências.
 3. Execute o projeto.
