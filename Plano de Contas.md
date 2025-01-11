@@ -45,9 +45,7 @@ Clique no botão de inclusão e selecione a conta "PLANO DE CONTAS" do tipo Anal
 
 ![Exemplo Local](./img/opxconta.png)
 
-e clique para salvar.
-
-Após a finalização do primeiro Tipo de operação, o mesmo processo deve ser feito para todos os restantes!
+Clique para salvar e após a finalização do primeiro Tipo de operação, o mesmo processo deve ser feito para todos os restantes!
 
 > ⚠️ **Observação:** Esse processo pode ser feito tanto no central (para rede de lojas) quando no varejo (para lojas independentes). Se o cliente for parte de rede, o processo deve ser feito no central!
 
