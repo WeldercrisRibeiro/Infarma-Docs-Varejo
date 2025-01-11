@@ -118,12 +118,3 @@ END
  
 CLOSE CursorOperacoes
 DEALLOCATE CursorOperacoes
-
-
-
-
-
-
-
-
-
