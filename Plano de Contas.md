@@ -47,7 +47,7 @@ Clique no botão de inclusão e selecione a conta "PLANO DE CONTAS" do tipo Anal
 
 Clique para salvar e após a finalização do primeiro Tipo de operação, o mesmo processo deve ser feito para todos os restantes!
 
-> ⚠️ **Observação:** Esse processo pode ser feito tanto no central (para rede de lojas) quando no varejo (para lojas independentes).  Se o cliente for parte de rede, o processo deve ser feito no central!
+> ⚠️ **Observação:** Esse processo pode ser feito tanto no central (para rede de lojas) quando no varejo (para lojas independentes).       Se o cliente for parte de rede, o processo deve ser feito no central!
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
