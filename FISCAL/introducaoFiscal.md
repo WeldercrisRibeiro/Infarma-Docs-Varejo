@@ -5,8 +5,8 @@
 #### Iremos separar o módulo em alguns pontos para melhor absorção, recorrendo em todas as rotinas existentes seguindo a regra de negócio do Infarma Varejo.
 
 ## Sumário
-- [Inicio](#introduçãoFiscal.md)
-- [Região Tributária](#regiãoTributária.md)
+- [Inicio](introduçãoFiscal.md)
+- [Região Tributária](regiãoTributária.md)
 - Classificação Tributária
 - Regime de Tributação
 - Cadastro de Produtos 
